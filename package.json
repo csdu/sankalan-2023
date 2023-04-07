@@ -1,7 +1,7 @@
 {
-  "name": "sankalan-2020",
+  "name": "sankalan-2023",
   "version": "1.0.0",
-  "description": "Sankalan 2020 Website.",
+  "description": "Sankalan 2023 Website.",
   "main": "index.js",
   "scripts": {
     "start": "eleventy --serve --watch",
